@@ -4,6 +4,8 @@ C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\bin\Debug\Attendances.pdb
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\bin\Debug\MetroFramework.dll
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\bin\Debug\MetroFramework.Fonts.dll
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.csprojAssemblyReference.cache
+C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.FormAddClass.resources
+C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.MainForm.resources
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.LoginForm.resources
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.Properties.Resources.resources
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.csproj.GenerateResource.cache
@@ -11,4 +13,3 @@ C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.csp
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.csproj.CopyComplete
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.exe
 C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.pdb
-C:\Users\CutieBookie\Documents\GitHub\atfa\Attendances\obj\Debug\Attendances.MainForm.resources

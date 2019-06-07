@@ -13,6 +13,8 @@ namespace Attendances
     public partial class LoginForm : Form
     {
         public bool loginFlaf { get; set; }
+        public int UserId { get; set; }
+
         public LoginForm()
         {
             InitializeComponent();
@@ -33,6 +35,7 @@ namespace Attendances
             {
                 //Valid
                 MessageBox.Show("Loged in!");
+                UserId = int.Parse(dt.Rows[0]["UserID"].ToString());
                 loginFlaf = true;
             }
             else
@@ -42,6 +45,11 @@ namespace Attendances
                 loginFlaf = false;
             }
             Close();
+        }
+
+        private void LoginForm_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
